@@ -1,5 +1,11 @@
 # VoutingApp
 
+#pt-br#
+ - Projeto criado com o intuito de criar uma pagina de login utilizando supabase e angular 15 com tailwind.
+##########
+Other tools:
+- Tailwind
+- Supabase
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 ## Development server
