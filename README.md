@@ -1,6 +1,6 @@
 # VoutingApp
 
-## #pt-br#
+## PT-BR
  - Projeto criado com o intuito de criar uma pagina de login utilizando supabase e angular 15 com tailwind.
 ## Other tools:
 - Tailwind
